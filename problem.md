@@ -9,6 +9,8 @@ using namespace std;
 		cin >> myInt;
 		
 		if ( atoi ( myInt ) == 0 ) {
+			
+			
 			cout << " \n Error : Not a valid Input ";               // could be non numeric 
 		}
 		else {
