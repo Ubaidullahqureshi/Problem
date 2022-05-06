@@ -11,7 +11,9 @@
 		char myInt [ 20 ];
 		
 		
+		
 		cout << " Enter an Integer between 10-100 : ";
+		
 		cin >> myInt;
 		
 		
@@ -23,7 +25,7 @@
 		
 		else {
 			anInteger = atoi ( myInt );
-			if ( anInteger < 10 || anInteger > 100 ){
+			if ( anInteger < 10 || anInteger > 100 ){            // Logic
 				cout << " \n Error :  only integer between 10-100 are allowed ! ";  
 		
 		}
