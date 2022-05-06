@@ -1,4 +1,4 @@
-	// This Program is not works 
+	// This Program is not works there is some 
 	
 	#include<iostream>			// Header File
 
