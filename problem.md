@@ -1,7 +1,11 @@
 	// This Program is not works there is some logical error.
 	
+	
+	
 	#include<iostream>																// Header File
+	
 	#include<stdio.h>
+	
 	using namespace std;
 		int main(){
 		int anInteger;
