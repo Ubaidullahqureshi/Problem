@@ -7,9 +7,14 @@
 	#include<stdio.h>
 	
 	using namespace std;
-		int main(){
-		int anInteger;
-		char myInt [ 20 ];
+		
+		
+		int main()
+		
+		{
+			int anInteger;
+			
+			char myInt [ 20 ];
 		
 		cout << " Enter an Integer between 10-100 : ";
 		cin >> myInt;
