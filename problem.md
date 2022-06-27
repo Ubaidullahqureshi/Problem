@@ -16,11 +16,18 @@
 			
 			char myInt [ 20 ];
 		
-		cout << " Enter an Integer between 10-100 : ";
-		cin >> myInt;
 		
-		if ( atoi ( myInt ) == 0 ) {	
-			cout << " \n Error : Not a valid Input ";               								// could be non numeric 
+			
+			cout << " Enter an Integer between 10-100 : ";
+			cin >> myInt;
+		
+			
+			
+			if ( atoi ( myInt ) == 0 ) 
+			
+			{
+			
+				cout << " \n Error : Not a valid Input ";             // could be non numeric 
 		}
 		
 		else {
